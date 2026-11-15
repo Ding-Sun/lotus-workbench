@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.12%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows%2011-0078D4.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Version](https://img.shields.io/badge/version-0.5.0-6E5AC8.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-0.1.0-6E5AC8.svg)](CHANGELOG.md)
 
 
 ## 这是什么
